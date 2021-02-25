@@ -1,0 +1,6 @@
+*.pyc
+*.out
+*.dll
+*.lib
+*.a
+.ipynb_checkpoints/

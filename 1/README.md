@@ -10,14 +10,14 @@
 
 Travail pratique :
 
-- [ ] Installation d'un environnement Python (3.8.x .. 3.9.x)
-- [ ] Installation de IPython
-- [ ] Prise en main de vscode
-  - [ ] Créer un fichier Python
-  - [ ] L'exécuter avec un breakpoint
-- [ ] Installer un paquet avec Pip
-  - [ ] Installer le paquet `pint`
-  - [ ] Essayer d'utiliser `pint` (depuis Ipython)
+- [x] Installation d'un environnement Python (3.8.x .. 3.9.x)
+- [x] Installation de IPython
+- [x] Prise en main de vscode (`code .`)
+  - [x] Créer un fichier Python
+  - [x] L'exécuter avec un breakpoint
+- [x] Installer un paquet avec Pip
+  - [x] Installer le paquet `pint`
+  - [x] Essayer d'utiliser `pint` (depuis Ipython)
 
 ## Installation Python sous "Ubuntu 20.04"
 

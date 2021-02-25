@@ -19,6 +19,14 @@ Travail pratique :
   - [ ] Installer le paquet `pint`
   - [ ] Essayer d'utiliser `pint` (depuis Ipython)
 
+## Installation Python sous "Ubuntu 20.04"
+
+```console
+sudo apt-get install python3
+sudo apt-get install python3-pip
+pip3 install -U pint
+```
+
 ## Références
 
 - [StackOverflow](https://stackoverflow.com/)
@@ -27,6 +35,7 @@ Travail pratique :
 - Learning Python Mark Lutz ISBN 978-1-449-35573-9
 - Python Cookbook ISBN 978-1-449-34037-7
 - [Python Source](https://github.com/python/cpython)
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 
 ## C'est quoi Python
 
@@ -61,46 +70,29 @@ Travail pratique :
 3. [Anaconda](https://www.anaconda.com/)
 4. Python via Docker
 
+## WSL 1 ou 2
+
+1. Activer fonctionnalité WSL sous Windows (+ reboot)
+2. Installer Kernel linux (https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+3. Ubuntu 20.04 depuis le Windows Store
+  a. Enter a login (court, et en minuscule)
+  b. Password
+  c. Repeat your password
+  d. `sudo apt-get update`
+  e. `sudo apt-get install python3 python3-pip`
+4. `pip3 install -U ipython`
+
 ## Tour de table
 
-### Benhsina
+- C (impératif et du procédural)
+- TSA (Bressy Python) Jupyter Docker
+- Un peu de Python (Minecraft)
+- ProgOOx
+- Automate programmable (IEC 1131-3)
 
-C (impératif et du procédural)
-+ ProgOOx
-+
-### Binggeli
+## Trucs et astuces
 
-C
-TSA (Bressy Python) Jupyter Docker
-+ ProgOOx
+### Copier Coller sous "Bash" (Git Bash ou Linux Terminal)
 
-
-
-### Jacot-Guillarmod
-
-C
-TSA (Bressy Python) Jupyter Docker
-Pas très bien compris Docker
-+ ProgOOx
-
-### Kaddouri
-
-C
-Un peu de Python (Minecraft)
-
-### Leuenberger
-### Müller
-### Fournier
-### Podolec
-
-C
-TSA (Bressy Python) Jupyter Docker
-+ ProgOOx
-
-### Nicoud
-
-C
-Automate programmable (IEC 1131-3)
-
-
-
+- **Copier**: Selectionner simplement le texte sous Windows Terminal
+- **Coller**: <M-Ins> (majuscule insert) ou clic droit de la souris

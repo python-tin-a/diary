@@ -1,9 +1,9 @@
 # Semaine 2/16
 
-- [ ] Paradigme orienté objet
-- [ ] Data Model (quelques bases)
-- [ ] numpy
-- [ ] Exercice
+- [x] Paradigme orienté objet
+- [x] Data Model (quelques bases avec les méthodes magiques)
+- [x] numpy
+- [x] Exercice
 
 ## Notes
 
@@ -13,7 +13,7 @@
 - L'initialiseur d'une class (une sorte de constructeur), c'est la méthode `__init__`
 - Chaque méthode doit avoir, un argument `self`, qui est une référence à l'instance courante.
 
-# Type scalaires
+## Type scalaires
 
 - Nombres entiers `n = 42`
 - Nombres réels `f = 3.14`
@@ -31,12 +31,12 @@ int
 float
 ```
 
-# Type Composite
+## Type Composite
 
 - Chaîne de caractère `'foo'`, `"foo"`
 - Listes `[1, 2, 3]`
 
-## Listes []
+### Listes []
 
 ```python
 >>> v = [12, 3.14, "hello", 12 + 2j]
@@ -60,15 +60,15 @@ float
 - Inverser l'ordre
 - Trier
 
-## Tuples ()
+### Tuples ()
 
 C'est une liste non modifiable
 
-## Set {}
+### Set {}
 
 C'est liste non ordonnée d'éléments uniques
 
-## Dictionnaire {key: valeur}
+### Dictionnaire {key: valeur}
 
 Association de paires "clé" et "valeur"
 

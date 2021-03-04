@@ -10,5 +10,8 @@ class Cat {
      */
     void Cat(std::string name) {
         this->name = name;
+
+        u = (int)f;
+        u = static_cast<int>(f)
     }
 }

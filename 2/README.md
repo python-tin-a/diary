@@ -55,7 +55,10 @@ float
 - Supprimer le premier élément
 - Supprimer l'élément à la position n
 - Indexer un élément (aller chercher une valeur à une position particulière)
-- Compter le nombre d'éléments
+- Compter le nombre d'éléments d'une certaine valeur
+- Compter le nombre d'éléments dans la liste
+- Inverser l'ordre
+- Trier
 
 ## Tuples ()
 

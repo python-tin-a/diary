@@ -13,6 +13,10 @@ Si ça a des ailes de canard, un bec de canard, et des pattes de canard, c'est q
 
 ## She Bang
 
-```
+```py
 #! /usr/bin/env python3
 ```
+
+## Unicode
+
+Suivre ce [lien](https://heig-tin-info.github.io/handout/content/datatype.html#les-caracteres)

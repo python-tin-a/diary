@@ -52,3 +52,4 @@ class SuperListe(list): # Je crée une extension à une liste par héritage
         for element in self:
             out += element ** 2
         return out
+

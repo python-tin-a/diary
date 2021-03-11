@@ -1,0 +1,4 @@
+#! /usr/bin/perl
+$_ = 'foo';
+s/o/u;
+print($_);
